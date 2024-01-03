@@ -40,6 +40,8 @@ Construct reference tables and develop conditional columns:
 - Introduce an 'Age Group ID' conditional column in the 'Age Groups' table.
 - Similarly, create reference tables for 'Account Balance' and 'Credit Scores'. Insert respective IDs as conditional columns.
 
+  ![churn_analysis_connection](https://github.com/harshmeshram05/Customer-Churn-Analysis/assets/141904527/8f0fc815-a024-4e84-9465-90b72f4d10cc)
+
 ### 4. Creating Measures
 Develop measures to further aid the analysis:
 
@@ -67,4 +69,6 @@ Visual representation of data offers intuitive insights. The following visuals w
 - Line and clustered column chart showing customers and churn rate by age group.
 - Line and clustered column chart showing customers and churn rate by credit score.
 - Line and clustered column chart showing customers and churn rate by account balance
+
+## Dashboard
 
