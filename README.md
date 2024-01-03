@@ -72,3 +72,4 @@ Visual representation of data offers intuitive insights. The following visuals w
 
 ## Dashboard
 
+![Customer_churn_analysis](https://github.com/harshmeshram05/Customer-Churn-Analysis/assets/141904527/b5782f4c-8f69-4abd-a5ef-5021c98a027d)
